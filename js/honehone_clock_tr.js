@@ -1,7 +1,7 @@
 /******************************************************************************
 	�����ݒ�
 ******************************************************************************/
-var swfUrl = "http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.swf";
+var swfUrl = "https://xwinfo.github.io/js/honehone_clock_tr.swf";
 
 var swfTitle = "honehoneclock";
 
