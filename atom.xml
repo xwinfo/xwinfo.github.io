@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xwinfo.github.io/"/>
-  <updated>2017-07-13T09:39:20.763Z</updated>
+  <updated>2017-07-13T09:42:45.416Z</updated>
   <id>https://xwinfo.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://xwinfo.github.io/topic/test/"/>
     <id>https://xwinfo.github.io/topic/test/</id>
     <published>2017-07-13T08:30:28.000Z</published>
-    <updated>2017-07-13T09:39:20.763Z</updated>
+    <updated>2017-07-13T09:42:45.416Z</updated>
     
     <content type="html"><![CDATA[<p>1).php需要5.4及以上版本，编译安装php-5.6.30（lamp均编译配置过程见学习笔记）</p>
 <p>配置好epel源<br>yum install libxml2-devel libmcrypt-devel bzip2-devel</p>
@@ -38,7 +38,7 @@
     </summary>
     
     
-      <category term="实践" scheme="https://xwinfo.github.io/tags/%E5%AE%9E%E8%B7%B5/"/>
+      <category term="实践 test" scheme="https://xwinfo.github.io/tags/%E5%AE%9E%E8%B7%B5-test/"/>
     
   </entry>
   
