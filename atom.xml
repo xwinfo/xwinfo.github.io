@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xwinfo.github.io/"/>
-  <updated>2017-07-13T09:32:23.837Z</updated>
+  <updated>2017-07-13T09:39:20.763Z</updated>
   <id>https://xwinfo.github.io/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="https://xwinfo.github.io/topic/test/"/>
     <id>https://xwinfo.github.io/topic/test/</id>
     <published>2017-07-13T08:30:28.000Z</published>
-    <updated>2017-07-13T09:32:23.837Z</updated>
+    <updated>2017-07-13T09:39:20.763Z</updated>
     
     <content type="html"><![CDATA[<p>1).php需要5.4及以上版本，编译安装php-5.6.30（lamp均编译配置过程见学习笔记）</p>
 <p>配置好epel源<br>yum install libxml2-devel libmcrypt-devel bzip2-devel</p>
 <p>httpd-2.2使用yum安装，安装时没有apxs<br>yum install httpd-devel</p>
 <p>编译php为httpd的模块：<br>tar xf php-5.6.30.tar.xz<br>cd php-5.6.30<br>./configure –prefix=/usr/local/php –with-mysql=/home/mysql-5.6.28/ –with-mysqli=/home/mysql-5.6.28/bin/mysql_config –with-openssl –enable-mbstring –with-png-dir –with-jpeg-dir –with-freetype-dir –with-zlib –with-libxml-dir=/usr –enable-xml –enable-sockets –with-mcrypt –with-bz2 –enable-bcmath –enable-ctype –with-gettext –with-gd –with-apxs2=/usr/sbin/apxs<br>make -j 2<br>make install</p>
-<p>123</p>
+<p>ok</p>
 ]]></content>
     
     <summary type="html">
